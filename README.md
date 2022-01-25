@@ -2,7 +2,7 @@
 Obrigado por testar meu bot :)
 
 ### Projeto Batata
-Uma bot em português feita para PC, originalmente para o grupo Legião Z no WhatsApp, possui mais de 200 comandos e continua em crescimento e melhorias frequentes.
+Uma bot em português feita para PC, originalmente para o WhatsApp, possui mais de 500 comandos e continua em crescimento e melhorias frequentes.
 
 ### Usar apenas no Telefone
 No celular é dificílimo que você consiga usar, portanto, use o site [Goorm](https://ide.goorm.io) para criar sua BOT pelo telefone, mas saiba que ele irá te desconectar frequentemente, se você possui PC, é muito melhor usa-lo do que usar o Goorm.
