@@ -70,8 +70,8 @@ Caso você obtenha erros com a versão do node no repositório de seu Linux, use
 Você precisa ter esse repositório, é simples, rode os comandos abaixo, em caso de erros, rode como sudo/administrador.
 
 ```bash
-> git clone https://github.com/KillovSky/iris.git
-> cd iris
+> git clone https://github.com/batata/batata.git
+> cd batata
 > npm i
 ```
 
